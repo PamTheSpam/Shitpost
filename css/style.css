@@ -1,0 +1,38 @@
+body {
+    background: url('shitpost.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-shitpost {
+    font-size: larger;
+    padding-top: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100%; 
+    color: aliceblue;
+    line-height: 2;
+}
+
+.shitpost-button {
+    padding-top: 5%;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#sht-btn1 {
+    width: 750px;
+    height: 200px;
+    font-size: xx-large;
+    font-family: Raleway, sans-serif;
+}
+
+#sht-btn2 {
+    width: 750px;
+    height: 200px;
+    font-size: xx-large;
+    font-family: Raleway, sans-serif;
+}
