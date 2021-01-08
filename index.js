@@ -1,5 +1,5 @@
 function cunt() {
-    document.getElementById("shitpost-paragraph").innerHTML = "Shticunt";
+    document.getElementById("shitpost-paragraph").innerHTML = "Shitcunt";
 }
 
 document.getElementsById('sht-btn1').onclick = cunt();
